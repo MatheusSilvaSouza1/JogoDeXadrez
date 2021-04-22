@@ -1,0 +1,77 @@
+[33mcommit 17ccec3053b7fb1b7ae6dd7f4847d0727955b1e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Tue Apr 20 18:43:28 2021 -0300
+
+    Implementando a verificação de xeque
+
+[33mcommit f2a390d0e80d500e67c3affcaff593f2d15cc107[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Tue Apr 20 18:11:51 2021 -0300
+
+    Controlando as pecas capturadas
+
+[33mcommit 363ffb913e0a97b19b1790c0f09256c48ba23322[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Tue Apr 20 13:01:51 2021 -0300
+
+    Implementando as retricoes de movimento
+
+[33mcommit b067c2a947eb5a1cd32bdc6b18bb6ebc0a66c981[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Mon Apr 19 13:42:25 2021 -0300
+
+    Testes iniciais com movimentos possiveis das pecas
+
+[33mcommit cfaa19315cca367c7d3c09c6d409bcfa85a11977[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Mon Apr 19 12:43:29 2021 -0300
+
+    Fazendo os primeiros testes de movimentacao
+
+[33mcommit 3a08eca2862a5b37322e21a14ca223f050829927[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Fri Apr 16 13:48:16 2021 -0300
+
+    Melhorando a implementacao do metodo imprirTabuleiro
+
+[33mcommit fa6afcd922fbdaa81c59a5a87527d6479cc77473[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Fri Apr 16 13:34:29 2021 -0300
+
+    Criando a classe PosicaoXadrez
+
+[33mcommit 45294724d1cf83fd1631b1c076a7322036750893[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Fri Apr 16 12:30:31 2021 -0300
+
+    Tratando erros com excecao personalizada
+
+[33mcommit a89ce725cc633d2f368c8059adf275a7b786e096[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Fri Apr 16 12:06:36 2021 -0300
+
+    Comecando a colocar pecas no tabuleiro
+
+[33mcommit 126453eda4de5de9ff45bddee0440bf5f4a867bb[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Thu Apr 15 18:55:47 2021 -0300
+
+    Comecando a implementar um metodo que imprime o tabuleiro
+
+[33mcommit 4b78ec919fa1f139e5110d26ae96ee488283d6b0[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Thu Apr 15 18:47:14 2021 -0300
+
+    Comecando a implementar o tabuleiro
+
+[33mcommit 43cbe5eb633072ac61306c1e9a6554b95159c822[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Thu Apr 15 18:36:20 2021 -0300
+
+    Criando a classe Posicao
+
+[33mcommit 05eed70bd924abc2d8aaef98cdf797de3e4723c7[m
+Author: Matheus Silva <matheus.b8@hotmail.com>
+Date:   Thu Apr 15 18:28:16 2021 -0300
+
+    Projeto criado
